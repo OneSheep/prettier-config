@@ -1,4 +1,4 @@
-# @onesheep/prettier-config [![GitHub Build Status][shield-github-build-status]][shield-github-build-status] [![npm][shield-npm]][npm] [![MIT License][shield-license]][license]
+# @onesheep/prettier-config [![Build Status][shield-github-build-status]][link-build-status] [![npm][shield-npm]][npm] [![MIT License][shield-license]][license]
 
 My shareable [Prettier](https://prettier.io/)
 [config](https://prettier.io/docs/en/configuration.html).
@@ -39,7 +39,7 @@ npx standard-version
 [license]: ./LICENSE
 [onesheep]: https://onesheep.org
 [npm]: https://npmjs.org/package/@onesheep/prettier-config
-[shield-github-build-status]:
-  https://github.com/OneSheep/prettier-config/workflows/npm-publish/badge.svg
+[link-build-status]:https://github.com/OneSheep/prettier-config/actions/workflows/npm-publish.yml
+[shield-github-build-status]:https://github.com/OneSheep/prettier-config/actions/workflows/npm-publish.yml/badge.svg
 [shield-license]: https://img.shields.io/badge/License-MIT-lavender.svg
 [shield-npm]: https://img.shields.io/npm/v/@onesheep/prettier-config.svg
