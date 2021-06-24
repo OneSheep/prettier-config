@@ -1,12 +1,13 @@
-# @onesheep/prettier-config [![Build Status][shield-github-build-status]][link-build-status] [![npm][shield-npm]][npm] [![MIT License][shield-license]][license]
+# @onesheep/prettier-config
+[![Build Status][shield-github-build-status]][link-build-status] [![npm][shield-npm]][npm] [![MIT License][shield-license]][license]
 
-My shareable [Prettier](https://prettier.io/)
+Standardised code formatting via [Prettier](https://prettier.io/)
 [config](https://prettier.io/docs/en/configuration.html).
 
 ## Installation
 
 ```shell script
-npm install --save-dev @onesheep/prettier-config
+npm i -D @onesheep/prettier-config
 ```
 
 ## Usage
@@ -26,7 +27,7 @@ Reference `@onesheep/prettier-config` in your `package.json`:
 
 See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-Use the following to cut a new commit:
+Use the following to cut a new release:
 
 ```
 npx standard-version
