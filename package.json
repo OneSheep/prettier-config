@@ -22,7 +22,6 @@
     ],
     "main": "index.js",
     "scripts": {
-        "release": "standard-version",
         "prepublishOnly": "npm run test",
         "test": "tape __tests__/*.js"
     },
