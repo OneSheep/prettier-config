@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/OneSheep/prettier-config/compare/v0.0.5...v0.0.6) (2021-07-08)
+
+
+### Bug Fixes
+
+* include semicolons ([a10c527](https://github.com/OneSheep/prettier-config/commit/a10c5279e521f7e82006220329de8cc645a94c50))
+
 ### [0.0.5](https://github.com/OneSheep/prettier-config/compare/v0.0.4...v0.0.5) (2021-06-24)
 
 
