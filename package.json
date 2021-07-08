@@ -1,6 +1,6 @@
 {
     "name": "@onesheep/prettier-config",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Standardised code formatting",
     "private": false,
     "homepage": "https://github.com/OneSheep/prettier-config",
