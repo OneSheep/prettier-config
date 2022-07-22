@@ -29,6 +29,7 @@
         "prettier": "^2.2.1"
     },
     "devDependencies": {
+        "prettier-plugin-tailwindcss": "^0.1.12",
         "tape": "^5.2.2"
     }
 }
