@@ -1,6 +1,6 @@
 {
     "name": "@onesheep/prettier-config",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "description": "Standardised code formatting",
     "private": false,
     "homepage": "https://github.com/OneSheep/prettier-config",
@@ -26,10 +26,10 @@
         "test": "tape __tests__/*.js"
     },
     "peerDependencies": {
-        "prettier": "^2.2.1",
-        "prettier-plugin-tailwindcss": "^0.2.0"
+        "prettier": "^2.8.8",
+        "prettier-plugin-tailwindcss": "^0.3.0"
     },
     "devDependencies": {
-        "tape": "^5.2.2"
+        "tape": "^5.6.3"
     }
 }
